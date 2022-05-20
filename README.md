@@ -1,4 +1,4 @@
-Software that recognizes handwritten numbers using Image processing and Artifical-Neural-Network
+Software that recognizes handwritten digits using basices of ANN.
 
 In this project I write a software that recognize handwritten digits. My software will accept an image input
 Of a digit between 0 and 9 and will return as output the digit that was detected. I did this by building a model
